@@ -108,7 +108,7 @@ history = model.fit(
 # SAVE MODEL
 # ---------------------------
 
-model.save("isl_mediapipe_model_v4_motion.h5")
+model.save("isl_model_v4_motion.h5")
 print("Model saved")
 
 # ---------------------------
